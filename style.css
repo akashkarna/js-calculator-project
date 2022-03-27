@@ -1,0 +1,41 @@
+.container{
+
+    
+    text-align: center;
+    background-color: aqua;
+    width: 290px;
+    height: 380px;
+   margin: auto;
+border: 8px solid red;
+
+
+}   
+
+table{
+
+    margin: auto;
+    
+}
+
+button{
+
+
+    width: 62px;
+    height: 44px;
+    border-radius: 8px;
+    font-size: 23px;
+
+}
+input{
+
+    width: 250px;
+    height: 50px; 
+    border-radius: 10px;
+    font-size: 23px;
+
+}
+
+h2{
+    font-size: 23px;
+    font-family: 'Courier New', Courier, monospace;
+}
